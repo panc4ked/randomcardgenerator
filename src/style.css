@@ -3,7 +3,6 @@ body {
   box-sizing: border-box;
 }
 .card {
-  display: inline-block;
   text-align: center;
   margin: auto;
   padding: 10px;
